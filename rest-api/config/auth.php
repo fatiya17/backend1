@@ -7,7 +7,11 @@ return [
     | Authentication Defaults
     |--------------------------------------------------------------------------
     |
+<<<<<<< HEAD
     | This option defines the default authentication "guard" and password
+=======
+    | This option defines the default authentication "guard" anpd password
+>>>>>>> 0673352 (change)
     | reset "broker" for your application. You may change these values
     | as required, but they're a perfect start for most applications.
     |
